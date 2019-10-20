@@ -22,6 +22,8 @@ Check out for more themes: [Jekyll Themes](http://jekylltheme.org)
 
 - [Locky](https://github.com/junlulocky)
 
-# Adapted by Wendy Ulacio for personal site.
+# Adapted 
+
+by Wendy Ulacio for personal site.
 
  
