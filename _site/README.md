@@ -21,3 +21,7 @@ Check out for more themes: [Jekyll Themes](http://jekylltheme.org)
 # Author
 
 - [Locky](https://github.com/junlulocky)
+
+# Adapted by Wendy Ulacio for personal site.
+
+ 
