@@ -5,7 +5,7 @@ variables:
   LC_ALL: C.UTF-8
 
 before_script:
-  - gem install jekyll-sass-converter --source 'http://rubygems.org/'
+  - gem install jekyll-sass-converter -v 1.5.2
   - bundle install
 
 test:
