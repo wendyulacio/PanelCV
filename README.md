@@ -24,6 +24,6 @@ Check out for more themes: [Jekyll Themes](http://jekylltheme.org)
 
 # Adapted 
 
-by Wendy Ulacio for personal site. 2019
+by Wendy Ulacio for personal site.  
 
  
