@@ -1,12 +1,12 @@
-image: ruby:2.3
+image: ruby:2.5
 
 variables:
   JEKYLL_ENV: production
   LC_ALL: C.UTF-8
 
 before_script:
+    # - gem install jekyll-sass-converter -v 1.5.2
   - bundle install
-  - gem install jekyll-sass-converter
 
 test:
   stage: test
